@@ -2,4 +2,4 @@
 
 Preview
 preview
-![Preview](https://github.com/Aullyah/slicing-web-recruit/tree/main/img/ss?raw=true "Preview Image")
+![Preview](https://github.com/Aullyah/slicing-web-recruit/blob/main/img/ss/capture.png?raw=true "Preview Image")
